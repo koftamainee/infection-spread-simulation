@@ -1,0 +1,10 @@
+[09:42:26] 2025-05-28 INFORMATION Begin to parse input file: people.txt
+[09:42:26] 2025-05-28 INFORMATION Input file succesfully parsed, people count: 100
+[09:42:26] 2025-05-28 INFORMATION Started verifying the graph
+[09:42:26] 2025-05-28 INFORMATION Graph is correct
+[09:42:26] 2025-05-28 INFORMATION Initial infection: Stephen Martin was infected on day 1
+[09:42:26] 2025-05-28 INFORMATION Infection: Stephen Martin infected Ryan Lopez on day 1
+[09:42:26] 2025-05-28 INFORMATION Ryan Lopez started treatment on day 5
+[09:42:26] 2025-05-28 INFORMATION Stephen Martin started treatment on day 5
+[09:42:26] 2025-05-28 INFORMATION Ryan Lopez recovered on day 17
+[09:42:26] 2025-05-28 INFORMATION Stephen Martin recovered on day 21

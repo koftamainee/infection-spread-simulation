@@ -1,0 +1,31 @@
+{
+  "input_file": {
+
+    "file_path": "people.txt"
+
+  },
+
+  "logging": {
+    "format": "[%t] %d %s %m",
+    "streams": [
+      {
+        "path": "./logs/client_errors.log",
+        "severities": ["error", "critical"]
+      },
+      {
+        "path": "./logs/client_all.log",
+        "severities": ["trace", "debug", "information", "warning", "error", "critical"]
+      },
+      {
+        "path": "",
+        "severities": ["trace", "debug", "information", "warning", "error", "critical"]
+      }, 
+      {
+        "path": "./logs/client_info",
+        "severities": ["information"]
+      }
+    ]
+  }
+
+
+}
