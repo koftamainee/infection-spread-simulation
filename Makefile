@@ -50,7 +50,10 @@ debug:
 release:
 	$(Q)$(MAKE) BUILD_TYPE=Release build
 
-run: debug
+log_dir:
+	@mkdir -p logs
+
+run: log_dir debug
 	$(Q)echo "Running Debug build..."
 	$(Q)echo "----------------------"
 	$(Q)"$(TARGET_DIR)/$(TARGET)" $(ARGS)

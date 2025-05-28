@@ -1,10 +1,10 @@
-[09:42:26] 2025-05-28 INFORMATION Begin to parse input file: people.txt
-[09:42:26] 2025-05-28 INFORMATION Input file succesfully parsed, people count: 100
-[09:42:26] 2025-05-28 INFORMATION Started verifying the graph
-[09:42:26] 2025-05-28 INFORMATION Graph is correct
-[09:42:26] 2025-05-28 INFORMATION Initial infection: Stephen Martin was infected on day 1
-[09:42:26] 2025-05-28 INFORMATION Infection: Stephen Martin infected Ryan Lopez on day 1
-[09:42:26] 2025-05-28 INFORMATION Ryan Lopez started treatment on day 5
-[09:42:26] 2025-05-28 INFORMATION Stephen Martin started treatment on day 5
-[09:42:26] 2025-05-28 INFORMATION Ryan Lopez recovered on day 17
-[09:42:26] 2025-05-28 INFORMATION Stephen Martin recovered on day 21
+[09:50:18] 2025-05-28 INFORMATION Begin to parse input file: people.txt
+[09:50:18] 2025-05-28 INFORMATION Input file succesfully parsed, people count: 100
+[09:50:18] 2025-05-28 INFORMATION Started verifying the graph
+[09:50:18] 2025-05-28 INFORMATION Graph is correct
+[09:50:18] 2025-05-28 INFORMATION Initial infection: Emily Thompson was infected on day 1
+[09:50:18] 2025-05-28 INFORMATION Infection: Emily Thompson infected Emily Smith on day 2
+[09:50:18] 2025-05-28 INFORMATION Emily Thompson started treatment on day 5
+[09:50:18] 2025-05-28 INFORMATION Emily Smith started treatment on day 6
+[09:50:18] 2025-05-28 INFORMATION Emily Thompson recovered on day 14
+[09:50:18] 2025-05-28 INFORMATION Emily Smith recovered on day 23
