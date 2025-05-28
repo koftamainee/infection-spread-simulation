@@ -21,7 +21,7 @@
         "severities": ["trace", "debug", "information", "warning", "error", "critical"]
       }, 
       {
-        "path": "./logs/client_info",
+        "path": "./logs/client_info.log",
         "severities": ["information"]
       }
     ]
