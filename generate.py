@@ -190,12 +190,10 @@ def generate_people(n):
 def connect_people(people, min_friends=3):
     n = len(people)
 
-    # Создать цепочку связности
     for i in range(n - 1):
         people[i]["friends"].add(i + 1)
         people[i + 1]["friends"].add(i)
 
-    # Добавить случайные связи
     for i in range(n):
         while len(people[i]["friends"]) < min_friends:
             j = random.randint(0, n - 1)

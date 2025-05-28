@@ -78,6 +78,9 @@ analyze_fix: build
 	$(Q)echo "Analyzing code with clang-tidy..."
 	$(Q)find . -name '*.cpp' -o -name '*.h' -not -path "./$(BUILD_DIR)/*" -not -path "./$(TARGET_DIR)/*" | xargs clang-tidy -p . --fix
 
+generate: build
+	@./build/$(BUILD_TYPE)/generator -o people.txt $(ARGS)
+
 help:
 	$(Q)echo "Project Build System"
 	$(Q)echo "Targets:"

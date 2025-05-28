@@ -1,10 +1,192 @@
-[09:50:18] 2025-05-28 INFORMATION Begin to parse input file: people.txt
-[09:50:18] 2025-05-28 INFORMATION Input file succesfully parsed, people count: 100
-[09:50:18] 2025-05-28 INFORMATION Started verifying the graph
-[09:50:18] 2025-05-28 INFORMATION Graph is correct
-[09:50:18] 2025-05-28 INFORMATION Initial infection: Emily Thompson was infected on day 1
-[09:50:18] 2025-05-28 INFORMATION Infection: Emily Thompson infected Emily Smith on day 2
-[09:50:18] 2025-05-28 INFORMATION Emily Thompson started treatment on day 5
-[09:50:18] 2025-05-28 INFORMATION Emily Smith started treatment on day 6
-[09:50:18] 2025-05-28 INFORMATION Emily Thompson recovered on day 14
-[09:50:18] 2025-05-28 INFORMATION Emily Smith recovered on day 23
+[10:20:13] 2025-05-28 INFORMATION Begin to parse input file: people.txt
+[10:20:13] 2025-05-28 INFORMATION Input file succesfully parsed, people count: 10000
+[10:20:13] 2025-05-28 INFORMATION Started verifying the graph
+[10:20:13] 2025-05-28 INFORMATION Graph is correct
+[10:20:13] 2025-05-28 INFORMATION Initial infection: Matthew Thomas was infected on day 1
+[10:20:13] 2025-05-28 INFORMATION Infection: Matthew Thomas infected Susan King on day 1
+[10:20:13] 2025-05-28 INFORMATION Infection: Matthew Thomas infected Timothy Evans on day 3
+[10:20:13] 2025-05-28 INFORMATION Infection: Susan King infected Sharon Campbell on day 3
+[10:20:13] 2025-05-28 INFORMATION Infection: Timothy Evans infected Betty Sanchez on day 4
+[10:20:13] 2025-05-28 INFORMATION Matthew Thomas started treatment on day 5
+[10:20:13] 2025-05-28 INFORMATION Susan King started treatment on day 5
+[10:20:13] 2025-05-28 INFORMATION Infection: Betty Sanchez infected Christopher Allen on day 5
+[10:20:13] 2025-05-28 INFORMATION Timothy Evans started treatment on day 7
+[10:20:13] 2025-05-28 INFORMATION Sharon Campbell started treatment on day 7
+[10:20:13] 2025-05-28 INFORMATION Infection: Betty Sanchez infected Kenneth Williams on day 7
+[10:20:13] 2025-05-28 INFORMATION Infection: Christopher Allen infected Joshua Scott on day 7
+[10:20:13] 2025-05-28 INFORMATION Betty Sanchez started treatment on day 8
+[10:20:13] 2025-05-28 INFORMATION Infection: Christopher Allen infected Linda Allen on day 8
+[10:20:13] 2025-05-28 INFORMATION Christopher Allen started treatment on day 9
+[10:20:13] 2025-05-28 INFORMATION Infection: Joshua Scott infected Paul Phillips on day 10
+[10:20:13] 2025-05-28 INFORMATION Infection: Joshua Scott infected Amy Wilson on day 10
+[10:20:13] 2025-05-28 INFORMATION Kenneth Williams started treatment on day 11
+[10:20:13] 2025-05-28 INFORMATION Joshua Scott started treatment on day 11
+[10:20:13] 2025-05-28 INFORMATION Linda Allen started treatment on day 12
+[10:20:13] 2025-05-28 INFORMATION Infection: Paul Phillips infected Eric Richardson on day 13
+[10:20:13] 2025-05-28 INFORMATION Infection: Paul Phillips infected Jason Ramos on day 13
+[10:20:13] 2025-05-28 INFORMATION Infection: Amy Wilson infected Angela White on day 13
+[10:20:13] 2025-05-28 INFORMATION Paul Phillips started treatment on day 14
+[10:20:13] 2025-05-28 INFORMATION Amy Wilson started treatment on day 14
+[10:20:13] 2025-05-28 INFORMATION Infection: Angela White infected Samuel Cook on day 15
+[10:20:13] 2025-05-28 INFORMATION Infection: Jason Ramos infected Jacob Ortiz on day 16
+[10:20:13] 2025-05-28 INFORMATION Jason Ramos started treatment on day 17
+[10:20:13] 2025-05-28 INFORMATION Angela White started treatment on day 17
+[10:20:13] 2025-05-28 INFORMATION Eric Richardson started treatment on day 17
+[10:20:13] 2025-05-28 INFORMATION Infection: Samuel Cook infected Ashley Cruz on day 17
+[10:20:13] 2025-05-28 INFORMATION Sharon Campbell recovered on day 18
+[10:20:13] 2025-05-28 INFORMATION Infection: Ashley Cruz infected Larry Lopez on day 18
+[10:20:13] 2025-05-28 INFORMATION Infection: Ashley Cruz infected Christopher Cox on day 18
+[10:20:13] 2025-05-28 INFORMATION Samuel Cook started treatment on day 19
+[10:20:13] 2025-05-28 INFORMATION Infection: Ashley Cruz infected Samuel Moore on day 19
+[10:20:13] 2025-05-28 INFORMATION Matthew Thomas recovered on day 20
+[10:20:13] 2025-05-28 INFORMATION Jacob Ortiz started treatment on day 20
+[10:20:13] 2025-05-28 INFORMATION Infection: Christopher Cox infected Timothy Ramirez on day 20
+[10:20:13] 2025-05-28 INFORMATION Infection: Christopher Cox infected David Robinson on day 20
+[10:20:13] 2025-05-28 INFORMATION Infection: Ashley Cruz infected Debra Davis on day 20
+[10:20:13] 2025-05-28 INFORMATION Infection: Larry Lopez infected Donna Lopez on day 20
+[10:20:13] 2025-05-28 INFORMATION Ashley Cruz started treatment on day 21
+[10:20:13] 2025-05-28 INFORMATION Infection: David Robinson infected Timothy Richardson on day 21
+[10:20:13] 2025-05-28 INFORMATION Infection: Debra Davis infected Helen Hill on day 21
+[10:20:13] 2025-05-28 INFORMATION Infection: Donna Lopez infected Barbara Flores on day 21
+[10:20:13] 2025-05-28 INFORMATION Infection: Donna Lopez infected Nicole Cooper on day 21
+[10:20:13] 2025-05-28 INFORMATION Christopher Cox started treatment on day 22
+[10:20:13] 2025-05-28 INFORMATION Timothy Evans recovered on day 22
+[10:20:13] 2025-05-28 INFORMATION Larry Lopez started treatment on day 22
+[10:20:13] 2025-05-28 INFORMATION Infection: David Robinson infected Jonathan Young on day 22
+[10:20:13] 2025-05-28 INFORMATION Infection: Timothy Ramirez infected Frank Flores on day 22
+[10:20:13] 2025-05-28 INFORMATION Infection: Barbara Flores infected Brenda Parker on day 22
+[10:20:13] 2025-05-28 INFORMATION Infection: Nicole Cooper infected William Wright on day 22
+[10:20:13] 2025-05-28 INFORMATION Susan King recovered on day 23
+[10:20:13] 2025-05-28 INFORMATION Samuel Moore started treatment on day 23
+[10:20:13] 2025-05-28 INFORMATION Infection: Nicole Cooper infected Richard King on day 23
+[10:20:13] 2025-05-28 INFORMATION David Robinson started treatment on day 24
+[10:20:13] 2025-05-28 INFORMATION Timothy Ramirez started treatment on day 24
+[10:20:13] 2025-05-28 INFORMATION Jason Ramos recovered on day 24
+[10:20:13] 2025-05-28 INFORMATION Angela White recovered on day 24
+[10:20:13] 2025-05-28 INFORMATION Amy Wilson recovered on day 24
+[10:20:13] 2025-05-28 INFORMATION Debra Davis started treatment on day 24
+[10:20:13] 2025-05-28 INFORMATION Donna Lopez started treatment on day 24
+[10:20:13] 2025-05-28 INFORMATION Infection: Frank Flores infected Sharon Gomez on day 24
+[10:20:13] 2025-05-28 INFORMATION Infection: Richard King infected Christine Martin on day 24
+[10:20:13] 2025-05-28 INFORMATION Timothy Richardson started treatment on day 25
+[10:20:13] 2025-05-28 INFORMATION Barbara Flores started treatment on day 25
+[10:20:13] 2025-05-28 INFORMATION Helen Hill started treatment on day 25
+[10:20:13] 2025-05-28 INFORMATION Nicole Cooper started treatment on day 25
+[10:20:13] 2025-05-28 INFORMATION Infection: Jonathan Young infected Susan Green on day 25
+[10:20:13] 2025-05-28 INFORMATION Infection: Frank Flores infected George Nguyen on day 25
+[10:20:13] 2025-05-28 INFORMATION Infection: Christine Martin infected Joseph Clark on day 25
+[10:20:13] 2025-05-28 INFORMATION Infection: Brenda Parker infected Jonathan Walker on day 25
+[10:20:13] 2025-05-28 INFORMATION Infection: William Wright infected Charles Taylor on day 25
+[10:20:13] 2025-05-28 INFORMATION Jonathan Young started treatment on day 26
+[10:20:13] 2025-05-28 INFORMATION Frank Flores started treatment on day 26
+[10:20:13] 2025-05-28 INFORMATION Brenda Parker started treatment on day 26
+[10:20:13] 2025-05-28 INFORMATION William Wright started treatment on day 26
+[10:20:13] 2025-05-28 INFORMATION Infection: Sharon Gomez infected Nancy Rogers on day 26
+[10:20:13] 2025-05-28 INFORMATION Infection: Richard King infected Stephen Cox on day 26
+[10:20:13] 2025-05-28 INFORMATION Infection: Jonathan Walker infected Timothy Perez on day 26
+[10:20:13] 2025-05-28 INFORMATION Richard King started treatment on day 27
+[10:20:13] 2025-05-28 INFORMATION Infection: Charles Taylor infected Andrew Lee on day 27
+[10:20:13] 2025-05-28 INFORMATION Infection: Nancy Rogers infected Nicole Cox on day 27
+[10:20:13] 2025-05-28 INFORMATION Infection: Stephen Cox infected Kenneth Bailey on day 27
+[10:20:13] 2025-05-28 INFORMATION Infection: Stephen Cox infected James Clark on day 27
+[10:20:13] 2025-05-28 INFORMATION Infection: Susan Green infected Rebecca Brown on day 27
+[10:20:13] 2025-05-28 INFORMATION Infection: Susan Green infected Christine Morales on day 27
+[10:20:13] 2025-05-28 INFORMATION Kenneth Williams recovered on day 28
+[10:20:13] 2025-05-28 INFORMATION Sharon Gomez started treatment on day 28
+[10:20:13] 2025-05-28 INFORMATION Christine Martin started treatment on day 28
+[10:20:13] 2025-05-28 INFORMATION Infection: Timothy Perez infected Richard Robinson on day 28
+[10:20:13] 2025-05-28 INFORMATION Infection: Rebecca Brown infected Amy Robinson on day 28
+[10:20:13] 2025-05-28 INFORMATION Charles Taylor started treatment on day 29
+[10:20:13] 2025-05-28 INFORMATION Joseph Clark started treatment on day 29
+[10:20:13] 2025-05-28 INFORMATION Jonathan Walker started treatment on day 29
+[10:20:13] 2025-05-28 INFORMATION George Nguyen started treatment on day 29
+[10:20:13] 2025-05-28 INFORMATION Susan Green started treatment on day 29
+[10:20:13] 2025-05-28 INFORMATION Infection: Nancy Rogers infected Betty Morris on day 29
+[10:20:13] 2025-05-28 INFORMATION Nancy Rogers started treatment on day 30
+[10:20:13] 2025-05-28 INFORMATION Stephen Cox started treatment on day 30
+[10:20:13] 2025-05-28 INFORMATION Timothy Perez started treatment on day 30
+[10:20:13] 2025-05-28 INFORMATION Samuel Moore recovered on day 30
+[10:20:13] 2025-05-28 INFORMATION Infection: Andrew Lee infected Richard Harris on day 30
+[10:20:13] 2025-05-28 INFORMATION Infection: Christine Morales infected Katherine Roberts on day 30
+[10:20:13] 2025-05-28 INFORMATION Infection: Rebecca Brown infected Brenda Robinson on day 30
+[10:20:13] 2025-05-28 INFORMATION Andrew Lee started treatment on day 31
+[10:20:13] 2025-05-28 INFORMATION Nicole Cox started treatment on day 31
+[10:20:13] 2025-05-28 INFORMATION Christine Morales started treatment on day 31
+[10:20:13] 2025-05-28 INFORMATION Kenneth Bailey started treatment on day 31
+[10:20:13] 2025-05-28 INFORMATION Rebecca Brown started treatment on day 31
+[10:20:13] 2025-05-28 INFORMATION James Clark started treatment on day 31
+[10:20:13] 2025-05-28 INFORMATION Infection: Betty Morris infected Karen Carter on day 31
+[10:20:13] 2025-05-28 INFORMATION Amy Robinson started treatment on day 32
+[10:20:13] 2025-05-28 INFORMATION Richard Robinson started treatment on day 32
+[10:20:13] 2025-05-28 INFORMATION Paul Phillips recovered on day 32
+[10:20:13] 2025-05-28 INFORMATION Joshua Scott recovered on day 32
+[10:20:13] 2025-05-28 INFORMATION Infection: Richard Harris infected Benjamin Green on day 32
+[10:20:13] 2025-05-28 INFORMATION Betty Morris started treatment on day 33
+[10:20:13] 2025-05-28 INFORMATION Infection: Richard Harris infected Benjamin Diaz on day 33
+[10:20:13] 2025-05-28 INFORMATION Infection: Benjamin Green infected David Turner on day 33
+[10:20:13] 2025-05-28 INFORMATION Infection: Katherine Roberts infected Lisa Evans on day 33
+[10:20:13] 2025-05-28 INFORMATION Richard Harris started treatment on day 34
+[10:20:13] 2025-05-28 INFORMATION Katherine Roberts started treatment on day 34
+[10:20:13] 2025-05-28 INFORMATION Samuel Cook recovered on day 34
+[10:20:13] 2025-05-28 INFORMATION Brenda Robinson started treatment on day 34
+[10:20:13] 2025-05-28 INFORMATION Infection: David Turner infected Steven Ortiz on day 34
+[10:20:13] 2025-05-28 INFORMATION Infection: Lisa Evans infected Robert Jackson on day 34
+[10:20:13] 2025-05-28 INFORMATION Infection: Lisa Evans infected Kevin Evans on day 34
+[10:20:13] 2025-05-28 INFORMATION Timothy Ramirez recovered on day 35
+[10:20:13] 2025-05-28 INFORMATION Karen Carter started treatment on day 35
+[10:20:13] 2025-05-28 INFORMATION Sharon Gomez recovered on day 35
+[10:20:13] 2025-05-28 INFORMATION Eric Richardson recovered on day 35
+[10:20:13] 2025-05-28 INFORMATION Infection: Robert Jackson infected Shirley Robinson on day 35
+[10:20:13] 2025-05-28 INFORMATION Infection: Lisa Evans infected Nicholas Johnson on day 35
+[10:20:13] 2025-05-28 INFORMATION Benjamin Green started treatment on day 36
+[10:20:13] 2025-05-28 INFORMATION Joseph Clark recovered on day 36
+[10:20:13] 2025-05-28 INFORMATION Brenda Parker recovered on day 36
+[10:20:13] 2025-05-28 INFORMATION Infection: Robert Jackson infected Samantha Carter on day 36
+[10:20:13] 2025-05-28 INFORMATION Infection: Nicholas Johnson infected Larry Hernandez on day 36
+[10:20:13] 2025-05-28 INFORMATION Benjamin Diaz started treatment on day 37
+[10:20:13] 2025-05-28 INFORMATION David Turner started treatment on day 37
+[10:20:13] 2025-05-28 INFORMATION Lisa Evans started treatment on day 37
+[10:20:13] 2025-05-28 INFORMATION Infection: Kevin Evans infected Ashley Brown on day 37
+[10:20:13] 2025-05-28 INFORMATION Infection: Shirley Robinson infected Sarah Moore on day 37
+[10:20:13] 2025-05-28 INFORMATION Infection: Nicholas Johnson infected Justin Williams on day 37
+[10:20:13] 2025-05-28 INFORMATION Steven Ortiz started treatment on day 38
+[10:20:13] 2025-05-28 INFORMATION Kevin Evans started treatment on day 38
+[10:20:13] 2025-05-28 INFORMATION Robert Jackson started treatment on day 38
+[10:20:13] 2025-05-28 INFORMATION Timothy Perez recovered on day 38
+[10:20:13] 2025-05-28 INFORMATION Larry Lopez recovered on day 38
+[10:20:13] 2025-05-28 INFORMATION Infection: Sarah Moore infected Angela Torres on day 38
+[10:20:13] 2025-05-28 INFORMATION Infection: Samantha Carter infected Eric Martin on day 38
+[10:20:13] 2025-05-28 INFORMATION Shirley Robinson started treatment on day 39
+[10:20:13] 2025-05-28 INFORMATION Nicholas Johnson started treatment on day 39
+[10:20:13] 2025-05-28 INFORMATION George Nguyen recovered on day 39
+[10:20:13] 2025-05-28 INFORMATION Nicole Cox recovered on day 40
+[10:20:13] 2025-05-28 INFORMATION Christopher Cox recovered on day 40
+[10:20:13] 2025-05-28 INFORMATION Larry Hernandez started treatment on day 40
+[10:20:13] 2025-05-28 INFORMATION Samantha Carter started treatment on day 40
+[10:20:13] 2025-05-28 INFORMATION Susan Green recovered on day 40
+[10:20:13] 2025-05-28 INFORMATION Rebecca Brown recovered on day 40
+[10:20:13] 2025-05-28 INFORMATION Ashley Brown started treatment on day 41
+[10:20:13] 2025-05-28 INFORMATION Justin Williams started treatment on day 41
+[10:20:13] 2025-05-28 INFORMATION Stephen Cox recovered on day 41
+[10:20:13] 2025-05-28 INFORMATION Sarah Moore started treatment on day 41
+[10:20:13] 2025-05-28 INFORMATION Debra Davis recovered on day 41
+[10:20:13] 2025-05-28 INFORMATION Katherine Roberts recovered on day 42
+[10:20:13] 2025-05-28 INFORMATION Eric Martin started treatment on day 42
+[10:20:13] 2025-05-28 INFORMATION Angela Torres started treatment on day 42
+[10:20:13] 2025-05-28 INFORMATION Ashley Cruz recovered on day 42
+[10:20:13] 2025-05-28 INFORMATION David Robinson recovered on day 43
+[10:20:13] 2025-05-28 INFORMATION Frank Flores recovered on day 43
+[10:20:13] 2025-05-28 INFORMATION Helen Hill recovered on day 43
+[10:20:13] 2025-05-28 INFORMATION James Clark recovered on day 44
+[10:20:13] 2025-05-28 INFORMATION Donna Lopez recovered on day 44
+[10:20:13] 2025-05-28 INFORMATION Richard King recovered on day 45
+[10:20:13] 2025-05-28 INFORMATION William Wright recovered on day 45
+[10:20:13] 2025-05-28 INFORMATION Amy Robinson recovered on day 46
+[10:20:13] 2025-05-28 INFORMATION Barbara Flores recovered on day 46
+[10:20:13] 2025-05-28 INFORMATION Andrew Lee recovered on day 47
+[10:20:13] 2025-05-28 INFORMATION Betty Morris recovered on day 47
+[10:20:13] 2025-05-28 INFORMATION Christine Morales recovered on day 47
+[10:20:13] 2025-05-28 INFORMATION Shirley Robinson recovered on day 47
+[10:20:13] 2025-05-28 INFORMATION Ashley Brown recovered on day 49
+[10:20:13] 2025-05-28 INFORMATION Christine Martin recovered on day 49
+[10:20:13] 2025-05-28 INFORMATION Larry Hernandez recovered on day 50
