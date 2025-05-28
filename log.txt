@@ -1,4 +1,0 @@
-[2025-05-26 15:46:59][INFORMATION] Begin to parse input file: people.txt
-[2025-05-26 15:46:59][INFORMATION] Input file succesfully parsed, people count: 100000
-[2025-05-26 15:46:59][INFORMATION] Started verifying the graph
-[2025-05-26 15:46:59][INFORMATION] Graph is correct
