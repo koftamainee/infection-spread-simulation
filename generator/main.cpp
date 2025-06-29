@@ -1,5 +1,6 @@
 #include <ctime>
 #include <fstream>
+#include <functional>
 #include <iostream>
 #include <random>
 #include <set>
@@ -74,6 +75,27 @@ std::vector<Person> generate_people(int n) {
                       LAST_NAMES[last_dist(gen)], std::set<int>()});
   }
   return people;
+}
+
+bool is_connected(const std::vector<Person>& people) {
+  std::vector<bool> visited(people.size(), false);
+
+  std::function<void(int)> dfs = [&](int v) {
+    visited[v] = true;
+    for (int u : people[v].friends) {
+      if (!visited[u]) {
+        dfs(u);
+      }
+    }
+  };
+
+  dfs(0);  // Начинаем с первого человека
+
+  // Проверка, все ли были достигнуты
+  for (bool v : visited) {
+    if (!v) return false;
+  }
+  return true;
 }
 
 void connect_people(std::vector<Person>& people, int min_friends) {
@@ -163,6 +185,10 @@ int main(int argc, char* argv[]) {
 
     std::vector<Person> people = generate_people(num_people);
     connect_people(people, min_friends);
+    if (!is_connected(people)) {
+      std::cout << "Error: Generated graph is not connected\n";
+      return 1;
+    }
     write_to_file(output_file, people, simulation_params);
 
     std::cout << "Successfully generated " << output_file << " with "
